@@ -1,0 +1,18 @@
+{
+  "name": "fasterpay-node",
+  "version": "1.0.0",
+  "description": "FasterPay Node.js SDK enables you to integrate the FasterPay's Checkout Page seamlessly without having the hassle of integrating everything from scratch.",
+  "main": "index.js",
+  "scripts": {},
+  "author": {
+    "name": "FasterPay Integration Team",
+    "email": "integration@fasterpay.com",
+    "url": "https://fasterpay.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "for-in": "^1.0.2",
+    "http-build-query": "^0.7.0"
+  },
+  "devDependencies": {}
+}
