@@ -9,7 +9,7 @@
     "email": "integration@fasterpay.com",
     "url": "https://fasterpay.com"
   },
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "for-in": "^1.0.2",
     "http-build-query": "^0.7.0"
