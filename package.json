@@ -12,7 +12,9 @@
   "license": "MIT",
   "dependencies": {
     "for-in": "^1.0.2",
-    "http-build-query": "^0.7.0"
+    "http-build-query": "^0.7.0",
+    "request": "^2.88.0",
+    "sync-request": "^6.1.0"
   },
   "devDependencies": {}
 }
